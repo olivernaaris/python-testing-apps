@@ -1,0 +1,10 @@
+*.key
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+exports/
+.vscode/
+venv/
+theme.key
+data.db
